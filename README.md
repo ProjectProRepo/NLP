@@ -19,7 +19,7 @@ Gain access to resources covering:
 | **NLP Projects**         | Real-world projects to build and fine-tune your NLP skills.               |
 | **Career Guidance**      | Interview questions and insights into NLP career paths.                   |
 
-# 📚 Fundamentals of NLP  
+## 📚 Fundamentals of NLP  
 Understand the foundational techniques and concepts behind NLP:  
 - 📝 [10 NLP Techniques Every Data Scientist Should Know](<https://www.projectpro.io/article/10-nlp-techniques-every-data-scientist-should-know/415>)  
 - 📝 [BERT NLP Model Explained](<https://www.projectpro.io/article/bert-nlp-model-explained/558>)  
@@ -33,7 +33,7 @@ Expand your knowledge with these detailed guides and book recommendations:
 - 📝 [How to Learn NLP from Scratch](<https://www.projectpro.io/article/how-to-learn-nlp-from-scratch/497>)  
 - 📝 [Best NLP Books](<https://www.projectpro.io/article/best-nlp-books/505>)  
 
-# 🌐 Practical Tips for NLP  
+## 🌐 Practical Tips for NLP  
 Hands-on guides to help you build better NLP models:  
 - 📝 [How to Build an NLP Model Step-by-Step Using Python](<https://www.projectpro.io/article/how-to-build-an-nlp-model-step-by-step-using-python/915>)  
 - 📝 [Text Classification Algorithms and Models](<https://www.projectpro.io/article/machine-learning-nlp-text-classification-algorithms-and-models/523>)  
